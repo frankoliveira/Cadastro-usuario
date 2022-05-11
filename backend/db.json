@@ -1,12 +1,9 @@
 {
-    "user":[{
-        "id": 1,
-        "name": "Arthur Oliveira",
-        "email": "aoliveira@cod3r.com.br"
-    },
+  "users": [
     {
-        "id": 2,
-        "name": "Maria Julia da Silva",
-        "email": "mjds@empresa.com"
-    }]
+      "name": "Franklin Anderson Brito de Oliveira",
+      "email": "defrankoliver@gmail.com",
+      "id": 3
+    }
+  ]
 }
